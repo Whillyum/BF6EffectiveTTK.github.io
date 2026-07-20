@@ -1,0 +1,6 @@
+# Ignore Emscripten SDK tools and binaries
+emsdk/
+
+# Ignore CLion build and configuration files
+cmake-build-*/
+.idea/
