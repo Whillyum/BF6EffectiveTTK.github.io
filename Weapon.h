@@ -1,0 +1,8 @@
+//
+// Created by willa on 20/07/2026.
+//
+
+#ifndef BF6_EFFECTIVE_TTK_SIM_WEAPON_H
+#define BF6_EFFECTIVE_TTK_SIM_WEAPON_H
+
+#endif //BF6_EFFECTIVE_TTK_SIM_WEAPON_H
